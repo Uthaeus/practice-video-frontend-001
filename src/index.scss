@@ -1,0 +1,11 @@
+@import 'bootstrap';
+@import 'bootstrap-icons';
+
+@import './styles/main-navigation.scss';
+
+// Main Layout
+.main-layout {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+}
