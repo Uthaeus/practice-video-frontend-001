@@ -1,6 +1,8 @@
 @import 'bootstrap';
 @import 'bootstrap-icons';
 
+@import './styles/variables.scss';
+
 @import './styles/main-navigation.scss';
 
 // Main Layout
@@ -8,5 +10,5 @@
   width: 100%;
   min-height: 100vh;
   margin: 0;
-  background-color: grey;
+  background-color: $black;
 }
